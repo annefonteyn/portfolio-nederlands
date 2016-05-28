@@ -1,0 +1,1723 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.10",
+    "versionPublish": "2.10",
+    "name": "PORTFOLIO nederlands",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "favicon": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-78203908-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "publishType": "local",
+    "publishPath": "file:///Users/annefonteyn/Desktop/po%20ned",
+    "path": "file:///Users/annefonteyn/Desktop/export%20site%20portfolio%20eng%20",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-13",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/frontpage.gif",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jcvjd-2490x2490-52-600x600-44.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "dialoog.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "Dialoog&nbsp;",
+          "caption1": "Een onderzoek naar dialoog. Het object als acteur.<br>(2015 - 2016)",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bbgg-2490x2490-48-600x600-23.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "reanactments.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "Reenactments",
+          "caption2": "Een reeks trage video reenactments van mijn favoriete schilderijen.<br>(2016)",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fhnj-2490x2490-93-600x600-79.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "objecten.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "Objecten",
+          "caption3": "Een reeks souvenirs in een associatie  reeks <br>&amp; de bijhorende publicatie.&nbsp;<br>(2015)",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2landschap-copy-335x335-91-335x335-0.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "pink landscape.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "Landschap",
+          "caption4": "Een installatie&nbsp;met bijhorende performances.&nbsp;<br>(2016)",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dff-2490x2490-11-600x600-78.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "beweging.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "Beweging",
+          "caption5": "Een onderzoek naar het lichaam en beweging. De vorm als danser.<br>(2014-2015)",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-18",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "pink landscape.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-8",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ls2-copy-715x397-15-715x397-11.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/ls3-1280x689-62-1280x689-95-1280x689-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ls3-1280x689-62-1280x689-95.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/5lansdschap-1280x689-32-1280x689-23-800x431-50-800x431-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5lansdschap-1280x689-32-1280x689-23-800x431-50.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/1landschap-1280x689-82-1280x689-34-800x431-60-800x431-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1landschap-1280x689-82-1280x689-34-800x431-60.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/2landschap-1280x689-21-1280x689-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2landschap-1280x689-21.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/ls1-1280x689-80-1280x689-39-800x431-84-800x431-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ls1-1280x689-80-1280x689-39-800x431-84.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/ls2-1280x689-82-1280x689-4-1280x689-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ls2-1280x689-82-1280x689-4.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/3landschap-1280x689-56-1280x689-64-800x431-69-800x431-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3landschap-1280x689-56-1280x689-64-800x431-69.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1280x689-48-1280x689-21-1280x689-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-1280x689-48-1280x689-21.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#efefef",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-9",
+          "articleLayout": false
+        },
+        {
+          "_styles": {},
+          "_name": "video1",
+          "_anchor": "video1-43",
+          "_params": {
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://vimeo.com/155303625",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Een installatie met bijhorende performances.  "
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "reanactments.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-10",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-05-04-om-15-1280x710-60-1280x710-25-800x444-93.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-11",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br>Reenactments",
+          "meta": "",
+          "text": "<p>Een reeks trage video reenactments van mijn favoriete schilderijen.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"reanactments.html#msg-box5-31\" data-toolbar=\"-mbrBtnMove\">Betty</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"reanactments.html#msg-box5-31\" data-toolbar=\"-mbrBtnMove\">Heinrike</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"reanactments.html#msg-box5-36\" data-toolbar=\"-mbrBtnMove\">San José carpintero</a>  "
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dvjivdj-1280x710-83-1280x710-98-1280x710-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dvjivdj-1280x710-83-1280x710-98.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-05-04-om-15-1280x710-60-1280x710-25-800x444-66-800x444-86.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-05-04-om-15-1280x710-60-1280x710-25-800x444-66.png",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/djdjkef-1280x710-84-1280x710-90-1280x710-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/djdjkef-1280x710-84-1280x710-90.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/regkr-1280x710-96-1280x710-56-800x444-67-800x444-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/regkr-1280x710-96-1280x710-56-800x444-67.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dke-1280x710-46-1280x710-14-1280x710-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dke-1280x710-46-1280x710-14.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/xkcdkf-1280x710-27-1280x710-99-800x444-17-800x444-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/xkcdkf-1280x710-27-1280x710-99-800x444-17.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dkflndede-1280x710-75-1280x710-92-1280x710-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dkflndede-1280x710-75-1280x710-92.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/hrfbffv-1280x710-18-1280x710-36-1280x710-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hrfbffv-1280x710-18-1280x710-36.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-24",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-12",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-31",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/155303490",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Betty",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Reenactment van \"Betty\" (1977) Gehard Richter.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.gerhard-richter.com/en/art/paintings/photo-paintings/children-52/betty-6189/?&amp;categoryid=52&amp;p=1&amp;sp=32\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Original</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-34",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/168443484",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Portrait of Heinrike Dannecker",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Reenanactment van \"Portrait of Heinrike Dannecker\" -detail- (1802) Gottlieb Schick.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-36",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/168442721",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "San José carpintero",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>&nbsp;Reennactment van \"San José carpintero\" -detail- (c. 1638-45) Georges de la Tour.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "dialoog.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-17",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-8079-copy-4752x3168-33-1400x933-52.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-18",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br>Dialoog",
+          "meta": "",
+          "text": "<p>Een onderzoek naar de lichaamstaal van iemand in dialoog en een theoretish onderzoek naar de beste manier om deze performance te documenteren.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.dropbox.com/s/on81n517ufxalb1/Documentatie.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">tekst documentatie</a>  "
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8065-4752x3168-75-2000x1333-3-2000x1333-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8065-4752x3168-75-2000x1333-3.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8067-4752x3168-18-2000x1333-5-2000x1333-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8067-4752x3168-18-2000x1333-5.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8071-4752x3168-59-2000x1333-12-2000x1333-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8071-4752x3168-59-2000x1333-12.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8079-copy-4752x3168-33-1400x933-28-1400x933-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8079-copy-4752x3168-33-1400x933-28.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-19",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-20",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "beweging.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-21",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/beweging-1-1280x689-20-1280x689-89.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-22",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br><span style=\"font-family: inherit; line-height: 1.5em;\"><br></span><span style=\"font-family: inherit; line-height: 1.5em;\">movement&nbsp;</span><br><span style=\"font-family: inherit; line-height: 1.5em;\"><br></span><br>",
+          "meta": "",
+          "text": "<p><b>This is a dancer. </b>&nbsp;</p><p>its form is decided by me.</p><p><br></p><p><b>it has a body.</b></p><p>the body has a shape.</p><p>the body moves as a whole (Sequencing of movement between parts of the body).</p><p>the bodies can dance together (Connection of different bodies to each other).</p><p>the body moves in a pattern.</p><p>the body starts the movement at a point.</p><p><br></p><p><b>It has a body That makes an effort.</b></p><p>it can be triggered to make the movement.</p><p>it can undergo the movement.</p><p>it can make the movement.</p><p>it can make a sudden movement.</p><p>it can make sustained movements.</p><p>it moves freely.</p><p><br></p><p><b>it’s bound.</b></p><p>It has a body That makes an effort in the space.</p><p>it makes new shapes wile moving.</p><p>it takes the space conscious (the trigger of the movement decides the space it needs)</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">betty</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">twee</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">drie</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/beweging2-1280x689-66-1280x689-77-800x431-52-800x431-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beweging2-1280x689-66-1280x689-77-800x431-52.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/beweging6-1280x689-0-1280x689-79-1280x689-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beweging6-1280x689-0-1280x689-79.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/beweging5-1280x689-73-1280x689-70-1280x689-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beweging5-1280x689-73-1280x689-70.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/beweging-1-1280x689-94-1280x689-83-1280x689-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beweging-1-1280x689-94-1280x689-83.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-23",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-24",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "objecten.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "image1",
+          "_anchor": "image1-9",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/objecten4-1280x689-33-1280x689-69.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-16",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br>Objecten<br>",
+          "meta": "",
+          "text": "Een reeks souvenirs in een associatie reeks&nbsp;<div>&amp; de bijhorende publicatie.&nbsp;</div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"publikaties.html\" data-toolbar=\"-mbrBtnMove\">publicatie</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-18",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "publikaties.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {},
+          "_name": "video1",
+          "_anchor": "video1-34",
+          "_params": {
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://vimeo.com/155437385",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-35",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "161 &amp; 199",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>De publicaties zijn gebaseerd op de associatie van beelden, mijn eerste publicatie ‘161’ (te zien op de video), is als het ware een ‘tijdlijn’ van beelden. ‘161’ is uitgewerkt in boekformaat, mijn tweede publicatie: ‘199’, is een reeks van posters, waar ik verder op het associëren van beelden ga. De beelden die ik gebruik vormen voor mij een beeldenwereld, waaruit ik inspiratie haal om mijn eigen werk beter te kunnen plaatsen. Eventueel volgt er nog een boekversie van ‘199’. De publicaties zijn een samenwerking met grafisch ontwerper Thomas Delaey.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-18",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "externe projecten.html": {
+      "settings": {},
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/13271637-10208506997539961-1405669563-o-1920x1080-58-1920x1080-62.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": true,
+                "text": "Agrabah / shortfilm (Cristina Poppe)<br><br>Er zijn teveel vluchtelingen, zeggen de mensen. Er zijn te weinig mensen, zeggen de vluchtelingen. - Ernst Ferstl<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/13282587-10208506996059924-1380289059-o-1920x1080-7-1920x1080-53.png",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/13271678-10208506996099925-1895372529-o-1-1920x1080-81-1920x1080-93.png",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/13275315-10208506996179927-1262197442-o-1920x1080-84.png",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": false
+          },
+          "_anchor": "slider-42",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-18",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article H5": {
+              "color": "#ffffff",
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-37",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "external projects",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h5><b>2016</b></h5><h5>-Agrabah / Kortfilm (Cristina Poppe)</h5><h5>-<span style=\"font-weight: normal;\">Pink landscape / Performance + video work &amp; Unnamed / voorstelling - Mayday Mayday Festival, Gent</span></h5><h5><span style=\"font-weight: normal;\">- The MS-20 Orchestra / Performance - Vooruit Gent (Felix Cubin)&nbsp;</span></h5><h5><span style=\"font-weight: normal;\">-You make a better door than you do a window / Expo (Hans Demeulenaere &amp; Emi Kodama )</span></h5><h5><span style=\"font-weight: normal;\">-Backdrop#1 / Performative opening - Pianofabriek&nbsp;</span></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\"><br></b></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\"><br></b></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\">2015</b><br></h5><h5><span style=\"font-weight: normal;\">-21FM / play MayDay Mayday Festival, Gent</span></h5><h5><span style=\"font-weight: normal;\">-Liberty Inviting Artists To Take Part / Publicatie (Mixed media colaboration)&nbsp;</span></h5><h5><span style=\"font-weight: normal;\">-Objects / Performance - Tumult festival, Gent&nbsp;</span></h5><h5><span style=\"font-weight: normal;\">-Acousmonium Surround / soundwork - Concertgebouw Brugge (Mixed Media &amp; Ester Venrooj)</span></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\"><br></b></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\"><br></b></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\">2014</b><br></h5><h5><span style=\"font-weight: normal;\">-Liberty Inviting Artists To Take Part / Expo - Amsterdam<span style=\"font-family: inherit; line-height: 1.3em;\">&nbsp;</span></span></h5><h5><span style=\"font-weight: normal;\">-Movement / Screening - Netwerk Aalst</span></h5><h5><span style=\"font-weight: normal;\">-Anne en de Anderen / shortfilm (Zoë Boogaerts)&nbsp;</span></h5><h5><span style=\"font-weight: normal;\">-Slow (36h) / Screening - Concertgebouw Brugge</span></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\"><br></b></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\"><br></b></h5><h5><b style=\"font-family: inherit; line-height: 1.3em;\">2011-2013</b><br></h5><h5><span style=\"font-weight: normal;\">-Artistic exchanges<span style=\"font-family: inherit; line-height: 1.3em;\">&nbsp;from the European Union (Youth Pass):&nbsp;</span><span style=\"font-family: inherit; line-height: 1.3em;\">Belgium - Macedonia, Belgium - Iceland, Belgium - Spain, Belgium - Czech Republic, Belgium - Portugal.&nbsp;</span></span></h5><h5><span style=\"font-family: inherit; line-height: 1.3em; font-weight: normal;\">-ZIP / Educational Theater (In cooperation with the LOB, sensoa, weljongniethetero)&nbsp;</span></h5>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "You make a better door than you do a window / Expo (Hans Demeulenaere &amp; Emi Kodama ) 2016",
+                "thumb": "@PROJECT_PATH@/assets/images/beurshouwburg-960x720-11-960x720-74-800x600-69-800x600-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beurshouwburg-960x720-11-960x720-74-800x600-69.jpg",
+                "active": false
+              },
+              {
+                "caption": "Backdrop#1 / Performative opening - Pianofabriek 2016",
+                "thumb": "@PROJECT_PATH@/assets/images/backdrop-960x720-81-960x720-81-960x720-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/backdrop-960x720-81-960x720-81.jpg",
+                "active": false
+              },
+              {
+                "caption": "Slow (36h) / Screening - Concertgebouw Brugge 2015",
+                "thumb": "@PROJECT_PATH@/assets/images/slow-960x720-29-960x720-58-800x600-78-800x600-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slow-960x720-29-960x720-58-800x600-78.jpg",
+                "active": false
+              },
+              {
+                "caption": "Pink landscape / Performance + video work &nbsp;- Mayday Mayday Festival, Gent 2016",
+                "thumb": "@PROJECT_PATH@/assets/images/mayday-960x720-39-960x720-96-800x600-32-800x600-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mayday-960x720-39-960x720-96-800x600-32.jpg",
+                "active": false
+              },
+              {
+                "caption": "Anne en de andere / kortfilm (zoé boogearts) 2014",
+                "thumb": "@PROJECT_PATH@/assets/images/zoe-boogearts-960x720-70-960x720-72-960x720-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zoe-boogearts-960x720-70-960x720-72.jpg",
+                "active": false
+              },
+              {
+                "caption": "Objects / Performance - Tumult festival, Gent 2015",
+                "thumb": "@PROJECT_PATH@/assets/images/tumult-960x720-86-960x720-27-800x600-6-800x600-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tumult-960x720-86-960x720-27-800x600-6.jpg",
+                "active": false
+              },
+              {
+                "caption": "The MS-20 Orchestra / Performance - Vooruit Gent (Felix Cubin) 2016&nbsp;<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/felix-960x720-58-960x720-56-800x600-99-800x600-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/felix-960x720-58-960x720-56-800x600-99.jpg",
+                "active": true
+              },
+              {
+                "caption": "21FM / voorstelling MayDay Mayday Festival, Gent 2015",
+                "thumb": "@PROJECT_PATH@/assets/images/mayday215-960x720-41-960x720-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mayday215-960x720-41.jpg",
+                "active": false
+              }
+            ],
+            "showText": true,
+            "bgColor": "#313834",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-22",
+          "articleLayout": false
+        }
+      ]
+    },
+    "info.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#313834"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "17px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-31",
+          "_params": {
+            "color": "#313834",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANNE FONTEYN</a>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-11\">ARCHIEF</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"info.html\">INFO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"externe projecten.html\">EXTERNE PROJECTEN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"publikaties.html\">PUBLICATIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://annefonteyn.github.io/portfolio-engels/\">ENGLISH</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-42",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/\"><img alt=\"Creative Commons License\" src=\"https://i.creativecommons.org/l/by/3.0/88x31.png\"></a><br>This work is licensed under a &nbsp;<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution 3.0 Unported License</a>."
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-42",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tumult-960x720-86-960x720-8-960x720-63.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://www.dropbox.com/s/gl7sxvykkfoxjn7/cv.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD CV</a>"
+        },
+        {
+          "_name": "contacts3",
+          "_anchor": "contacts3-41",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#313834",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "LINKS<br><a href=\"http://www.toonboeckmans.tk\" target=\"_blank\">Toon Boeckmans</a><br><a href=\"https://843004507fd4756a45a199c64f8f267917d24df5.googledrive.com/host/0B4yPiymNf61HMC11S3cyakhSWkk/\" target=\"_blank\">Inca Garnica</a><br><a href=\"https://e6aec54fb9b8982ec0e582f92cc293b0d20f213a.googledrive.com/secure/AKsY0eXOTz21uRvaR1ze7DbRnPqLV42TDKiobHFWrnPQwhJ3_n0AgqYTA6sc5BLz2y6kXQw4aDa6C95jbPM3oqDnu632G9nPuy7NzIUog7YwTESqahkEHPZHirFYlKuzl-S8zq0GrQgu99p7mIN9hKfUoCkR0xvMRgb8cmPelFlK7L1aSOHrVbYzdImwkajzIN2EV5RsQRnh_32SjAz_P68Zz-QVEZ_Vv-ROWXsRBT7QTIdGJECcR3vdhwDs_feOpUZZ5q3yBRWwaTg_r7jUiqHAbA57p5dBF737rHLH7ngu3eGZkefEKAClN-sCtIQP327Zuv_gon7v5V20UJYBxafaGnP-Db995BHH9FzHyQUHfUc_tzktXnv9HUhKv6o9hEA3mKDI-jY9yX3T91qgYILZXdxorexxbvo9qYFhRtc7n910ZIO0qqhZLj7kZVvCwZ0I8CDfshtuuR0kl6RfmPnlKoADJjxsXIzPgmHA7xVyUhKvwFJ0qqtLZToPakYLi-fUJ6uq9NJtIpdQN9mk3NtRe9nZVT-nrQvvM0u-GOhE7wBoImDQl4yVlOjrmV35FKO4OzrpTCPwBMgufdsgq8a8CLM3Q7D4I5tgp5hsvq7UPxTNs7WksWo=/host/0B3AISQOOL98keFVSVDRIRHViNTg/\" target=\"_blank\">Lisa Terras</a><br><a href=\"https://2d7a086be06a94da7ac708ac50fb3b776d5df1b1.googledrive.com/host/0B6IfVp9ByGLccGNINllwYmtndTQ/\" target=\"_blank\">Tim Choin</a><br><a href=\"https://c06cac074ffa29177bdd27cfc445b64a043c21d0.googledrive.com/host/0B040JABH-mKodDFUTzI5elFsMHc/\" target=\"_blank\">Kapinga Muela Kabeya</a><br><a href=\"https://19517a67946c5e68ccbe36da8bbffc1dd5c82b82.googledrive.com/host/0B4YS6iiPQUwreVpfYjhjdmdCWm8/\" target=\"_blank\">Mauws Mal</a><br><a href=\"https://9ae5eb99c3fc0eb3b71ad684388e21c83b4e4e75.googledrive.com/host/0B1ZqVIaJPHH8RG9DbW43UnJIelE/\" target=\"_blank\">Emma De Meulenaer</a><br><a href=\"http://www.brooke-carlson.com\" target=\"_blank\">Brooke Carlson</a><br>",
+          "text2": "<p>CONTACT&nbsp;</p><p><span style=\"line-height: 1.7em;\"><br></span></p><p><span style=\"line-height: 1.7em;\">volg mijn werk- en tentoonstellings updates&nbsp;</span></p><p><b style=\"line-height: 1.7em;\"><a href=\"https://www.facebook.com/anne.fonteyn\" target=\"_blank\">Facebook&nbsp;</a>&nbsp;</b><br></p><p><b style=\"line-height: 1.7em;\"><a href=\"https://www.instagram.com/annefonteyn/\" target=\"_blank\">Instagram&nbsp;</a></b></p><p><b><a href=\"https://vimeo.com/user4301211\" target=\"_blank\">Vimeo</a>&nbsp; &nbsp; &nbsp; &nbsp; </b></p><p><span style=\"line-height: 1.7em;\">of contacteer me via mail : anne.fonteyn@hotmail.com</span></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "anne.fonteyn@hotmail.com",
+            "alerts": {
+              "success": "Bedankt voor het bericht!  Ik mail je terug zodra ik kan. "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">send<br></a>"
+        }
+      ]
+    }
+  }
+}
